@@ -1,0 +1,15 @@
+E:\Anshul\Dotnet1\Practice\Day-6\EventDrivenSln\DelegateDemoApp\obj\Debug\net7.0\DelegateDemoApp.csproj.AssemblyReference.cache
+E:\Anshul\Dotnet1\Practice\Day-6\EventDrivenSln\DelegateDemoApp\obj\Debug\net7.0\DelegateDemoApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Anshul\Dotnet1\Practice\Day-6\EventDrivenSln\DelegateDemoApp\obj\Debug\net7.0\DelegateDemoApp.AssemblyInfoInputs.cache
+E:\Anshul\Dotnet1\Practice\Day-6\EventDrivenSln\DelegateDemoApp\obj\Debug\net7.0\DelegateDemoApp.AssemblyInfo.cs
+E:\Anshul\Dotnet1\Practice\Day-6\EventDrivenSln\DelegateDemoApp\obj\Debug\net7.0\DelegateDemoApp.csproj.CoreCompileInputs.cache
+E:\Anshul\Dotnet1\Practice\Day-6\EventDrivenSln\DelegateDemoApp\bin\Debug\net7.0\DelegateDemoApp.exe
+E:\Anshul\Dotnet1\Practice\Day-6\EventDrivenSln\DelegateDemoApp\bin\Debug\net7.0\DelegateDemoApp.deps.json
+E:\Anshul\Dotnet1\Practice\Day-6\EventDrivenSln\DelegateDemoApp\bin\Debug\net7.0\DelegateDemoApp.runtimeconfig.json
+E:\Anshul\Dotnet1\Practice\Day-6\EventDrivenSln\DelegateDemoApp\bin\Debug\net7.0\DelegateDemoApp.dll
+E:\Anshul\Dotnet1\Practice\Day-6\EventDrivenSln\DelegateDemoApp\bin\Debug\net7.0\DelegateDemoApp.pdb
+E:\Anshul\Dotnet1\Practice\Day-6\EventDrivenSln\DelegateDemoApp\obj\Debug\net7.0\DelegateDemoApp.dll
+E:\Anshul\Dotnet1\Practice\Day-6\EventDrivenSln\DelegateDemoApp\obj\Debug\net7.0\refint\DelegateDemoApp.dll
+E:\Anshul\Dotnet1\Practice\Day-6\EventDrivenSln\DelegateDemoApp\obj\Debug\net7.0\DelegateDemoApp.pdb
+E:\Anshul\Dotnet1\Practice\Day-6\EventDrivenSln\DelegateDemoApp\obj\Debug\net7.0\DelegateDemoApp.genruntimeconfig.cache
+E:\Anshul\Dotnet1\Practice\Day-6\EventDrivenSln\DelegateDemoApp\obj\Debug\net7.0\ref\DelegateDemoApp.dll
